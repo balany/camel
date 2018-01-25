@@ -109,7 +109,7 @@ The Camel riders!
 # Licensing
 
 This software is licensed under the terms you may find in the file
-named `LICENSE.txt` in this directory.
+named `LICENSE.txt` in this directory..
    
 This distribution includes cryptographic software.  The country in
 which you currently reside may have restrictions on the import,
